@@ -1,3 +1,5 @@
+# This project is not completely developed.Now,accuracy is only approx 60%.
+
 Emotion Detection Using CNN
 This project implements a real-time emotion detection system using a Convolutional Neural Network (CNN). The model is trained on facial expression data and can predict emotions from live video or images.
 
